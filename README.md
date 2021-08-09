@@ -1,12 +1,11 @@
-<center>
-
+<p align="center">
 [![issues](https://img.shields.io/github/issues/barbarbar338/readme-template?color=red&logo=github&style=for-the-badge)](https://github.com/Hardikanand1st/Find-I.P-with-.bat-file/issues)
 
+<p align="center">
 Discord Username
 ```
 Hardik#8032
 ```
-</center>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72273900/128740025-2c09b0f8-c942-49e5-b2c7-4c19383bbb0d.png" alt="Logo" width="" height="" />
