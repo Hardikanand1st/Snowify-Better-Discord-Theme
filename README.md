@@ -12,12 +12,12 @@ Hardik#8032
   <p align="center">
     Animated Background Snowfall Theme for Better Discord.
     <br />
-    <a href="https://www.t.me/hardikanand1st"><strong>Get support »</strong></a>
+    <a href="https://discord.io/Hardik"><strong>Get support »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Hardikanand1st/Find-I.P-with-.bat-file/issues">Report Bug</a>
+    <a href="https://github.com/Hardikanand1st/Snowify-Better-Discord-Theme/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Hardikanand1st/Find-I.P-with-.bat-file/issues">Request Feature</a>
+    <a href="https://github.com/Hardikanand1st/Snowify-Better-Discord-Theme/issues">Request Feature</a>
     ·
     <a href="https://hardik.live/contact">Contact</a>
   </p>
