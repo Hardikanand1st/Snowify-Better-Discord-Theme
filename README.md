@@ -7,10 +7,10 @@ Hardik#8032
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72273900/128737514-26e02a5a-c048-4747-b245-ab93a31dfef0.png" alt="Logo" width="" height="" />
-  <h3 align="center">Find I.p cmd tool.</h3>
+  <h3 align="center">Snowify BetterDiscord Theme.</h3>
 
   <p align="center">
-    My awesome cmd tool for looking up exact location with .bat file.
+    Animated Background Snowfall Theme for Better Discord.
     <br />
     <a href="https://www.t.me/hardikanand1st"><strong>Get support »</strong></a>
     <br />
