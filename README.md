@@ -6,7 +6,7 @@ Hardik#0001
 ```
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/839747190104260630/871941497602342972/ezgif.com-gif-maker.gif" alt="Logo" width="" height="" />
+  <img src="https://hardikanand1st.github.io/Snowify-Better-Discord-Theme/assets/BackgroundGIF.gif" alt="Logo" width="" height="" />
   <h3 align="center">Find I.p cmd tool.</h3>
 
   <p align="center">
