@@ -2,7 +2,7 @@
 
 Discord Username
 ```
-Hardik#0001
+Hardik#8032
 ```
 
 <p align="center">
@@ -25,18 +25,17 @@ Hardik#0001
 
 # 📦 Installation
 
--   This is a ready to use.bat script no installation needed
--   To edit file: `Right click the downloaded .bat file and then click edit`
+-   This is a ready to use theme no installation needed
 
 # 🤓 Usage
 
 ```js
-Finds bulk i.p from cmd
+Animated Background Theme for Better Discord
 ```
 
 # 📄 License ⚖
 
-[GPL-2.0 License](https://github.com/Hardikanand1st/Find-I.P-with-.bat-file/blob/main/LICENSE)
+[Creative Commons Zero v1.0 Universal](https://github.com/Hardikanand1st/Snowify-Better-Discord-Theme/blob/main/LICENSE)
 
 # 🧦 Contributing
 
@@ -61,7 +60,7 @@ Give a ⭐️ if this project helped you!
 # 📞 Contact
 
 -   Mail: contact@hardik.live
--   Discord: ``` Hardik#0001 ```
+-   Discord: https://discord.io/Hardik
 -   Instagram: https://www.instagram.com/hardikanand1st
 -   Website: https://hardik.live
 -   Github: https://github.com/Hardikanand1st
