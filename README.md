@@ -6,7 +6,7 @@ Hardik#8032
 ```
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72273900/128737514-26e02a5a-c048-4747-b245-ab93a31dfef0.png" alt="Logo" width="" height="" />
+  <img src="https://user-images.githubusercontent.com/72273900/128740025-2c09b0f8-c942-49e5-b2c7-4c19383bbb0d.png" alt="Logo" width="" height="" />
   <h3 align="center">Snowify BetterDiscord Theme.</h3>
 
   <p align="center">
