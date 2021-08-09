@@ -1,7 +1,5 @@
-<p align="center">
 [![issues](https://img.shields.io/github/issues/barbarbar338/readme-template?color=red&logo=github&style=for-the-badge)](https://github.com/Hardikanand1st/Find-I.P-with-.bat-file/issues)
 
-<p align="center">
 Discord Username
 ```
 Hardik#8032
