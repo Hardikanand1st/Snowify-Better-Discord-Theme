@@ -52,10 +52,11 @@ Fell free to use GitHub's features.
 
 Give a ⭐️ if this project helped you!
 
+❤️ [Donate](https://hardik.live/donate)
+
 🖱 [Support](https://hardik.live/support)
 (by, clicking support button again and again)
 
-❤️ [Donate](https://hardik.live/donate)
 
 # 📞 Contact
 
