@@ -25,7 +25,7 @@ Hardik#8032
 
 # 📦 Installation
 
--   This is a ready to use theme no installation needed
+-   Copy Snowify.theme.css to %appdata%\Roaming\BetterDiscord\themes
 
 # 🤓 Usage
 
