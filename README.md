@@ -29,7 +29,7 @@ Hardik#8032
 
 # 🤓 Usage
 
-```
+```js
 Animated Background, Animated Discord Home Logo And Custom logos for User-settings.
 ```
 
