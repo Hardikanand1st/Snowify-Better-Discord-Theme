@@ -29,8 +29,8 @@ Hardik#8032
 
 # 🤓 Usage
 
-```js
-Animated Background Theme for Better Discord
+```
+Animated Background, Animated Discord Home Logo And Custom logos for User-settings.
 ```
 
 # 📄 License ⚖
