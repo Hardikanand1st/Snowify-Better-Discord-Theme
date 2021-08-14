@@ -12,11 +12,11 @@
 @import url('https://hardikanand1st.github.io/Snowify-Better-Discord-Theme/assets/main.css');
 
 :root {
-  --main-color: #2780e6;
-  --hover-color: #1e63b3;
-  --success-color: #43b581;
-  --danger-color: #982929;
-  --url-color: var(--main-color);
+  --main-color: blue;
+  --hover-color: #2780e6;
+  --success-color: green;
+  --danger-color: red;
+  --url-color: #0645AD;
   --background-image: url('https://hardikanand1st.github.io/Snowify-Better-Discord-Theme/assets/BackgroundGIF.gif');
   --background-shading: 100%;
   --background-position: center;
@@ -41,7 +41,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://zerthox.github.io/ClearVision/images/amethyst.jpg');
+  --user-modal-image: url('');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -55,11 +55,10 @@
   --home-icon: url('https://hardikanand1st.github.io/Snowify-Better-Discord-Theme/assets/DiscordHome.gif');
   --home-position: center;
   --home-size: 40px;
-  --channel-unread: var(--main-color);
-  --channel-color: rgba(255,255,255,0.3);
-  --channel-color: rgba(255,255,255,0.1);
+  --channel-unread: #90EE90;
+  --channel-color: #87CEEB;
   --online-color: #43b581;
-  --idle-color: #faa61a;
+  --idle-color: yellow;
   --dnd-color: #982929;
   --streaming-color: #593695;
   --offline-color: #808080;
@@ -80,7 +79,7 @@
   --backdrop-grayscale: var(--background-grayscale);
   --backdrop-sepia: var(--background-sepia);
   --backdrop-blur: var(--background-blur);
-  --bd-blue: var(--main-color);
+  --bd-blue: #2780e6;
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
 }
