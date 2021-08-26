@@ -48,7 +48,7 @@ Fell free to use GitHub's features.
 5. Push to the Branch (`git push origin feature/my-feature`)
 6. Open a Pull Request
 
-# 🔥 Show your support
+<h2 id="Donate"> #Show Your Support </h2>
 
 Give a ⭐️ if this project helped you!
 
