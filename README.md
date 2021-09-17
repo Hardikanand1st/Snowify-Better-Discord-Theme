@@ -59,7 +59,41 @@ Give a ⭐️ if this project helped you!
 <noscript><a href="https://www.patreon.com/HardikAnand"><img alt="Donate using Pateron" src="https://user-images.githubusercontent.com/72273900/130895407-bd1c1644-1e50-400e-8fed-57e1787aa731.png"></a></noscript>
 <br>
 <noscript><a href="https://www.buymeacoffee.com/hardikanand"><img alt="Donate using BuyMeACoffee" src="https://user-images.githubusercontent.com/72273900/133724682-156c24ef-cca5-4373-8942-8e65c47d4a66.png"></a></noscript>
+<br><br>
+### Bitcoin Wallet Address
+<code>
+3AQEpC2igsJRnRhcyMvZZmLZmoKpfrcN1H
+</code>
+<br><br>
 
+__Please Note!__
+*Remember to send only Bitcoin (BTC) to this address. Don't send Tether (USDT) or Bitcoin Cash (BCH) to this address as I may not be able to retrieve these funds.*
+ 
+ <br>
+ 
+### Tether Wallet Address
+<br>
+<code>
+0x066fC5d09B56c23d3370E49C804feEA45572196A
+</code>
+<br><br>
+
+__Please Note!__
+*Make sure you’re sending only ERC20-USDT tokens to this wallet address. If you send any other USDT token, I may not be able to retrieve these funds.*
+ 
+ <br>
+ 
+### Ethrum Wallet Address
+<br>
+<code>
+0x066fC5d09B56c23d3370E49C804feEA45572196A
+</code>
+<br><br>
+
+__Please Note!__
+*Make sure you send only ETH or ERC20-USDT to this wallet address. If you send any other ERC20 token, I may not be able to retrieve these funds.*
+
+<br><br>
 🖱 [Support](https://hardik.live/support)
 (by, clicking support button again and again)
 
