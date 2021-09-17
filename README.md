@@ -58,7 +58,7 @@ Give a ⭐️ if this project helped you!
 <br>
 <noscript><a href="https://www.patreon.com/HardikAnand"><img alt="Donate using Pateron" src="https://user-images.githubusercontent.com/72273900/130895407-bd1c1644-1e50-400e-8fed-57e1787aa731.png"></a></noscript>
 <br>
-<noscript><a href="https://www.buymeacoffee.com/hardikanand"><img alt="Donate using BuyMeACoffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a></noscript>
+<noscript><a href="https://www.buymeacoffee.com/hardikanand"><img alt="Donate using BuyMeACoffee" src="https://user-images.githubusercontent.com/72273900/133724682-156c24ef-cca5-4373-8942-8e65c47d4a66.png"></a></noscript>
 
 🖱 [Support](https://hardik.live/support)
 (by, clicking support button again and again)
