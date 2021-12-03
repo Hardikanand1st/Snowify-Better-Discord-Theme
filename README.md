@@ -21,11 +21,13 @@ Hardik#8032
     ·
     <a href="https://hardik.live/contact">Contact</a>
   </p>
-</p>
-
+  
   <h3 align="left" This repo is no more under [Hardik](https://githb.com/hardikanand1st) tis now under me ([coloured flower](https://github.com/colouredflower)</h3>
 
 <p>However You can still donate to [Hardik](https://github.com/hardikanand1st) through the old [links](https://github.com/Hardikanand1st/Snowify-Better-Discord-Theme#-show-your-support-)</p>
+</p>
+
+  
 
 # 📦 Installation
 
