@@ -23,6 +23,10 @@ Hardik#8032
   </p>
 </p>
 
+  <h3 align="left" This repo is no more under [Hardik](https://githb.com/hardikanand1st) tis now under me ([coloured flower](https://github.com/colouredflower)</h3>
+
+<p>However You can still donate to [Hardik](https://github.com/hardikanand1st) through the old [links](https://github.com/Hardikanand1st/Snowify-Better-Discord-Theme#-show-your-support-)
+
 # 📦 Installation
 
 -   Copy Snowify.theme.css to %appdata%\Roaming\BetterDiscord\themes
@@ -36,6 +40,8 @@ Animated Background, Animated Discord Home Logo And Custom logos for User-settin
 # 📄 License ⚖
 
 [Creative Commons Zero v1.0 Universal](https://github.com/Hardikanand1st/Snowify-Better-Discord-Theme/blob/main/LICENSE)
+
+
 
 # 🧦 Contributing
 
