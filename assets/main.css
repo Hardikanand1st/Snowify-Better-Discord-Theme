@@ -273,7 +273,7 @@ textarea,
   text-shadow: 0 0 3px #000;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
-  content: "v1.0";
+  content: "v2.0";
   color: rgba(255, 255, 255, 0.3);
   font-family: var(--code-font);
   font-size: 10px;
@@ -330,7 +330,7 @@ textarea,
   text-shadow: 0 0 3px;
 }
 .typeMacOS-3EmCyP:after {
-  content: "1.0";
+  content: "2.0";
   color: rgba(255, 255, 255, 0.3);
 }
 
@@ -1234,7 +1234,7 @@ textarea,
   transform: translateX(50%);
 }
 .container-3baos1:after {
-  content: "v1.0";
+  content: "v2.0";
   left: 50%;
   text-align: left;
   opacity: 0;
